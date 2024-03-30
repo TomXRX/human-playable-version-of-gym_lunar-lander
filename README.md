@@ -1,4 +1,4 @@
-### From
+### This is just a wrapper for gym
 
 https://www.gymlibrary.dev/environments/box2d/lunar_lander/
 
